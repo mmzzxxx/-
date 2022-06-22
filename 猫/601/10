@@ -21,7 +21,7 @@
 {"key":"csp_biubiu_黑狐影视ns","name":"黑狐影视(NS)（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/黑狐影视(ns).json"},  
 {"key":"csp_biubiu_GAOAA","name":"GAOAA（B）","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/bb/GAOAA.json"},
     //
-{"key":"七七资源","name":"七七资源","type":1,"api":"http://api.kunyu77.com/api.php","searchable":0,"quickSearch":0},
+
 
 {"key":"🔞丝袜资源","name":"🔞丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
